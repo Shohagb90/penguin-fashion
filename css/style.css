@@ -1,0 +1,55 @@
+.font-family{
+    font-family: 'Bebas Neue', cursive;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.card-text:hover{
+    color: darkolivegreen;
+    
+}
+.card-text{
+    text-align: justify;
+}
+.img-fluid{
+    padding: 30px;
+    height: 450px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-right: 520px;
+}
+.headin-price-color{
+    color: #fabe4c;
+}
+.common-color{
+    color: #363958;
+}
+.btn-color{
+    color: white;
+    background-color: #95af31;
+    height: 50px;
+    width: 150px;
+}
+.btn-color:hover{
+    background-color: goldenrod;
+    color: #95af31;
+}
+.section-card-footer{
+    border: 0;
+    background-color: white;
+}
+.heading-font{
+    font-size: 90px;
+    font-weight: 170;
+}
+.container{
+    margin-top: 100px;
+    padding-right: -20px;
+}
+.img-border{
+    border: 0;
+    background-color: white;
+}
+.navbar-nav:hover{
+background-color: #95af31;
+}
